@@ -1,0 +1,9 @@
+body {
+    background-color: bisque;
+    color: white;
+    text-size-adjust: 1001;
+}
+
+.body-background {
+    background-size: 100px;
+}
